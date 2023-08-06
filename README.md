@@ -1,7 +1,9 @@
-B1: cài xampp, eclicse, jdk, maven, tomcat 9.0
+Step 1: install elicse, jdk 17, tomcat 9.0
 
-B2: cài biến môi trường java, maven
+Step 2: set environment variables java, maven
 
-B3: Mở eclisce import project-> chuột phải vào project -> Maven -> dowload javadoc và download source -> update maven 
+Step 3: Open eclisce import project-> right click on project -> Maven -> dowload javadoc and download source -> update maven
 
-B4: Chuột phải project -> run as  -> mavent install -> Run As-> Run on server
+Step 4: Right-click project -> run as -> Mavent Install
+
+Step 5: Right-click project -> Run As-> Run on server
